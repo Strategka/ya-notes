@@ -1,0 +1,1 @@
+SHOW_N_CHARS=5
